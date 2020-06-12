@@ -23,7 +23,7 @@ As a result, we get all drawn cards.
 
 ## Testing
 I used for loop and Asserted each field as Assert.assertNotNull method, assuring that the fields are not empty.
-
+__Test__ package has one test case which ensures status code and get correct success result.
 
 ##Additionals
 
