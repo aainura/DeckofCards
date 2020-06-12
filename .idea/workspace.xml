@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2593c059-463f-42df-96cf-85a957fd9f5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ainura_DeckOfCards.kotlin_module" beforeDir="false" />
+    <list default="true" id="2593c059-463f-42df-96cf-85a957fd9f5f" name="Default Changelist" comment="second update">
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestResponses.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -153,6 +151,14 @@
       <option name="presentableId" value="Default" />
       <updated>1591927211816</updated>
     </task>
+    <task id="LOCAL-00001" summary="second update">
+      <created>1591983726885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591983726885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,5 +171,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second update" />
+    <option name="LAST_COMMIT_MESSAGE" value="second update" />
   </component>
 </project>
